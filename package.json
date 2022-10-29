@@ -1,5 +1,5 @@
 {
-  "name": "ngx-countdown-timer",
+  "name": "ngx-countdown-timer-core-11",
   "version": "0.1.0",
   "scripts": {
     "build": "gulp build",
